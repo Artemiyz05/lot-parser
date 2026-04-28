@@ -22,25 +22,21 @@ Lot Parser — это инструмент для автоматизирован
 - Requests — для работы с HTTP-запросами.
 - Pytest — модульное тестирование логики.
 - CSV — формат хранения данных для легкого импорта в Excel.
-
 # Установка и запуск
-
 1. **Клонирование репозитория:**
 ```bash
 git clone [https://github.com/Artemiyz05/lot-parser.git](https://github.com/Artemiyz05/lot-parser.git)
 cd lot-parser
 ```
 2. **Настройка виртуального окружения:**
-\```bash
+```bash
 python -m venv venv
 source venv/bin/activate  # Для Linux/macOS
-\```
-
+```
 3. **Установка зависимостей:**
-\```bash
+```bash
 pip install -r requirements.txt
-\```
-
+```
 Запуск инструментов:
 - Парсинг: python main.py
 - Тесты: pytest test_parser.py
