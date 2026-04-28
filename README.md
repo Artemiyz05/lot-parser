@@ -25,7 +25,7 @@ Lot Parser — это инструмент для автоматизирован
 # Установка и запуск
 1. **Клонирование репозитория:**
 ```bash
-git clone [https://github.com/Artemiyz05/lot-parser.git](https://github.com/Artemiyz05/lot-parser.git)
+git clone https://github.com/Artemiyz05/lot-parser.git
 cd lot-parser
 ```
 2. **Настройка виртуального окружения:**
