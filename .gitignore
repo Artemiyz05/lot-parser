@@ -1,0 +1,18 @@
+# Виртуальное окружение
+.venv/
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Логи
+parser.log
+
+# Настройки редакторов
+.vscode/
+.idea/
+.obsidian/
+
+# Тесты
+.pytest_cache/
