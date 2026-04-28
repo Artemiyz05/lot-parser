@@ -25,12 +25,14 @@ Lot Parser — это инструмент для автоматизирован
 
 # Установка и запуск
 1. Клонирование репозитория:
+\```bash
 git clone https://github.com/Artemiyz05/lot-parser.git
 cd lot-parser
-2. Настройка виртуального окружения:
+\```
+3. Настройка виртуального окружения:
 python -m venv venv
 source venv/bin/activate  # Для Linux/macOS
-3. Установка зависимостей:
+4. Установка зависимостей:
 pip install -r requirements.txt
 
 Запуск инструментов:
